@@ -296,7 +296,7 @@
         <wiremock-version>2.15.0</wiremock-version>
         <surefire-version>2.22.2</surefire-version>
         <commons-lang-version>3.2.1</commons-lang-version>
-        <jackson-version>2.11.1</jackson-version>
+        <jackson-version>2.13.0</jackson-version>
     </properties>
 
 </project>
